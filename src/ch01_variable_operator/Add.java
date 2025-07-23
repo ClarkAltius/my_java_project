@@ -21,5 +21,6 @@ public class Add {
         String new_message ;
         new_message = x + " 곱하기 " + y + " 는 " + x*y + " 입니다!";
         System.out.println(new_message);
+        System.out.println("Imma f u ↑");
     }
 }
